@@ -1,0 +1,58 @@
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\MobileFix.exe.config
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\AppData\MobileFix.mdf
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\AppData\MobileFix_log.ldf
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\MobileFix.exe
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\MobileFix.pdb
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.csprojResolveAssemblyReference.cache
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.Properties.Resources.resources
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.csproj.GenerateResource.Cache
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.exe
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.pdb
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\bin\Debug\MobileFix.exe.config
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.exe
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.pdb
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\bin\Debug\AppData\MobileFix.mdf
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\bin\Debug\AppData\MobileFix_log.ldf
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\bin\Debug\MobileFix.exe
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\bin\Debug\MobileFix.pdb
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.csprojResolveAssemblyReference.cache
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.frmAddSupplier.resources
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.frmDevices.resources
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.frmMenu.resources
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.frmSupplier.resources
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.Properties.Resources.resources
+E:\HND\Project management and development\github\Mobilefix2\MobileFix\obj\Debug\MobileFix.csproj.GenerateResource.Cache
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmAddSupplier.resources
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmDevices.resources
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmMenu.resources
+E:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmSupplier.resources
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\MobileFix.exe.config
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.exe
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.pdb
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\AppData\MobileFix.mdf
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\AppData\MobileFix_log.ldf
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\MobileFix.exe
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\bin\Debug\MobileFix.pdb
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.csprojResolveAssemblyReference.cache
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmAddSupplier.resources
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmDevices.resources
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmMenu.resources
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmSupplier.resources
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.Properties.Resources.resources
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.csproj.GenerateResource.Cache
+D:\HND\Project management and development\MobileFix C#\MobileFix\MobileFix\obj\Debug\MobileFix.frmAddDevice.resources
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\bin\Debug\MobileFix.exe.config
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.exe
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.pdb
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\bin\Debug\AppData\MobileFix.mdf
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\bin\Debug\AppData\MobileFix_log.ldf
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\bin\Debug\MobileFix.exe
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\bin\Debug\MobileFix.pdb
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.csprojResolveAssemblyReference.cache
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.frmAddDevice.resources
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.frmAddSupplier.resources
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.frmDevices.resources
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.frmMenu.resources
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.frmSupplier.resources
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.Properties.Resources.resources
+C:\Users\JameseyDreads\Dropbox\Ease tech team folder\MobileFix C#\MobileFix\obj\Debug\MobileFix.csproj.GenerateResource.Cache
